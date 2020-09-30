@@ -1,1 +1,1 @@
-QR_CODE this is a program use to make data in QR by giving the data in code.
+OR code program in python, this program is use to make given data inside QR Code.
